@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MyTopbar">
+        <attr name="center_title" format="string"></attr>
+        <attr name="center_titleSize" format="dimension"></attr>
+        <attr name="center_titleColor" format="color"></attr>
+        <attr name="center_backgroud" format="reference|color"></attr>
+        <attr name="left_titletext" format="string"></attr>
+        <attr name="left_titleSize" format="dimension"></attr>
+        <attr name="left_titleColor" format="color"></attr>
+        <attr name="left_backgroud" format="reference|color"></attr>
+        <attr name="right_titletext" format="string"></attr>
+        <attr name="right_titleSize" format="dimension"></attr>
+        <attr name="right_titleColor" format="color"></attr>
+        <attr name="right_backgroud" format="reference|color"></attr>
+    </declare-styleable>
+
+</resources>

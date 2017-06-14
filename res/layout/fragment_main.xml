@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myview="http://schemas.android.com/apk/res/com.zszn.server"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.zszn.custom.view.Topbar
+        android:id="@+id/topbar"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@color/red"
+        myview:center_title="风扇" 
+        myview:right_titletext = "编辑"
+        style="@style/top_content">
+    </com.zszn.custom.view.Topbar>
+
+</LinearLayout>

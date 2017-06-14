@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="top_content">
+        <item name="com.zszn.server:center_titleColor">#ffffff</item>
+        <item name="com.zszn.server:center_titleSize">14sp</item>
+        <item name="com.zszn.server:left_titleColor">#ffffff</item>
+        <item name="com.zszn.server:left_titletext">返回</item>
+        <item name="com.zszn.server:left_titleSize">12sp</item>
+        <item name="com.zszn.server:left_backgroud">#00000000</item>
+        <item name="com.zszn.server:right_titleColor">#ffffff</item>
+        <item name="com.zszn.server:right_titleSize">12sp</item>
+        <item name="com.zszn.server:right_backgroud">#00000000</item>
+    </style>
+
+</resources>
