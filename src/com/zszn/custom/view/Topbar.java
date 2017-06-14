@@ -98,7 +98,7 @@ public class Topbar extends RelativeLayout{
 		tvTitle = new Button(context);
 		tvTitle.setText(title);
 		tvTitle.setTextColor(titleTextColor);
-//		tvTitle.setTextSize(titleTextSize);
+		tvTitle.setTextSize(titleTextSize);
 		tvTitle.setBackgroundDrawable(titleBackground);
 		tvTitle.setGravity(Gravity.CENTER);
 		// view中添加控件
@@ -110,7 +110,7 @@ public class Topbar extends RelativeLayout{
 		rightButton = new Button(context);
 		rightButton.setText(rightText);
 		rightButton.setTextColor(rightColor);
-//		rightButton.setTextSize(rightTextSize);
+		rightButton.setTextSize(rightTextSize);
 //		rightButton.setBackground(rightBackground);
 		rightButton.setBackgroundDrawable(rightBackground);
 	//  view中添加控件
